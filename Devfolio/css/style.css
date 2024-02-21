@@ -1,0 +1,146 @@
+body{
+    background-color: #f5f5f5;
+}
+
+.name{
+    height: 100vh;
+}
+.main-name{
+    font-size: 70px;
+}
+
+.background{
+    background-image: url(../images/DevFolio_images/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center center;
+}
+.icon-circle{
+    width: 180px;
+    height: 180px;
+    border: solid #0078ff 15px;
+    border-radius: 50%;
+}
+.web{
+    width: 400px;
+}
+
+.ach{
+    height: 50vh;
+
+}
+.achivements{
+    color: #ffffff;
+    background-image: url(../images/DevFolio_images/post-3.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center center;
+    background-size: 1920px;
+}
+.ach span{
+    font-weight: 700;
+    font-size: 15px;
+}
+.ach-circle{
+    width: 80px;
+    height: 80px;
+    border: solid #ffffffa0 10px;
+    border-radius: 50%;
+}
+.pe{
+    height: 90vh;
+}
+.people{
+    color: #ffffff;
+    background-image: url(../images/DevFolio_images/overlay-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center center;
+    background-size: 1920px;
+}
+
+.pic{
+    width: 180px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.blog-card-title{
+    background-color: #0078ff;
+    width: fit-content;
+    padding: 5px;
+    top:0;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.identity-pic{
+    width: 35px;
+}
+
+.card-footer{
+    background-color: #2125290e;
+
+}
+
+.contact{
+    height: 100vh;
+    background-image: url(../images/DevFolio_images/overlay-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center center;
+    background-size: 1920px;
+}
+.facebook{
+    width: 45px;
+    height: 45px;
+}
+.instagram{
+    width: 45px;
+    height: 45px;
+}
+.linkedin{
+    width: 45px;
+    height: 45px;
+}
+.twitter{
+    width: 45px;
+    height: 45px;
+}
+
+.textbox{
+    height: 40px;
+    border: solid #2125293c 1px
+}
+.texterea{
+    border: solid #2125293c 1px
+}
+
+.contact-methods p{
+    font-size: 22px;
+    font-weight: 100;
+}
+.title-line{
+    width: 100%;
+    height: 3px;
+    background-color: #0078ff;
+}
+.section{
+    width: 5%;
+}
+
+.footer{
+    background-color: #0062d3;
+}
+
+@media (max-width:768px) {
+    .ach{
+        height: 120vh;
+    }
+    .contact{
+        height: 140vh;
+       
+    }
+}
