@@ -7,4 +7,4 @@ DevFolio is an practice of making Portfolio
 - JavaScript
 - Bootstrap
 
-[Live Demo](https://danielss.netlify.app/)
+[Live Demo](https://devvfolio.netlify.app/)
